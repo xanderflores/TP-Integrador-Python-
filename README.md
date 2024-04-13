@@ -4,20 +4,20 @@ Estructura del Sitio:
 
 🏋️‍♂️ Página Fitness
 
-|-- 📂 assets
-|   |-- 🖼️ images
+|--assets
+|   |-- images
 |   |   |-- logo.png
 |   |   |-- ...
-|-- 📂 css
+|--css
 |   |-- style.css
-|-- 📂 js
+|--js
 |   |-- script.js
-|-- 📂 pages
+|--pages
 |   |-- index.html
 |   |-- novedades.html
 |   |-- sucursales.html
 |   |-- contacto.html
-|-- 📄 README.md
+|--README.md
 |-- ...
 
 ## Estructura del Sitio:
