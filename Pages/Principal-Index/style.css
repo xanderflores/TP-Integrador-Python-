@@ -104,7 +104,6 @@ div.hacetesocioya {
     left: 45%;
     right: 0%;
     top: 120%;
-
 }
 
 #nuestra-comunidad.container {
@@ -161,7 +160,7 @@ h2{
    background-image:
    url("IMAGENES/funcional1.jpg");
 
-     }
+    }
 
 .carta:nth-child(2){
     background-image:
@@ -239,4 +238,3 @@ h2{
     color: var(--blanco);
     align-items: center;
 }
-
